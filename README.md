@@ -1,2 +1,3 @@
-# pro-task-manager-42d7
-Automated issue comment bot repository
+# Pro Task Manager 42D7
+
+Automated issue comment bot repository.
